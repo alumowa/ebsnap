@@ -1,0 +1,22 @@
+{
+  "name": "ebsnap",
+  "version": "1.0.0",
+  "description": "EBS snapshot wrapper utility to ease backup process.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "aws-sdk": "^2.2.19",
+    "hoek": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ebs",
+    "snapshot",
+    "aws"
+  ],
+  "author": "Alvin Lumowa",
+  "license": "MIT"
+}
